@@ -1,0 +1,10 @@
+E:\VS Proyectos\TA30_02\bin\Debug\TA30_02.exe.config
+E:\VS Proyectos\TA30_02\bin\Debug\TA30_02.exe
+E:\VS Proyectos\TA30_02\bin\Debug\TA30_02.pdb
+E:\VS Proyectos\TA30_02\obj\Debug\TA30_02.csproj.AssemblyReference.cache
+E:\VS Proyectos\TA30_02\obj\Debug\TA30_02.Form1.resources
+E:\VS Proyectos\TA30_02\obj\Debug\TA30_02.Properties.Resources.resources
+E:\VS Proyectos\TA30_02\obj\Debug\TA30_02.csproj.GenerateResource.cache
+E:\VS Proyectos\TA30_02\obj\Debug\TA30_02.csproj.CoreCompileInputs.cache
+E:\VS Proyectos\TA30_02\obj\Debug\TA30_02.exe
+E:\VS Proyectos\TA30_02\obj\Debug\TA30_02.pdb
